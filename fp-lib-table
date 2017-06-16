@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name arduino_uno_rev3_shield)(type KiCad)(uri "$(KIPRJMOD)\\library\\arduino_uno_rev3_shield.pretty")(options "")(descr ""))
+)

@@ -1,4 +1,4 @@
-update=13/06/2017 18:21:37
+update=15/06/2017 12:03:14
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=E:/BRICOLAGE/PROJECTS/KCNC/PCB/KCNC-GRBL_SHIELD_PCB/library
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -58,4 +58,5 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=library/74hct245p
+LibName30=library/arduino_uno_grbl_shield
+LibName31=library/arduino_uno_rev3_shield
