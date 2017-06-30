@@ -1,0 +1,475 @@
+Cmp-Mod V01 Created by PcbNew   date = 23/06/2017 14:44:03
+
+BeginCmp
+TimeStamp = 5946D726
+Path = /5940F5BF
+Reference = C7;
+ValeurCmp = 470µF;
+IdModule  = CP_Radial_D8.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 594761BD
+Path = /5942731F
+Reference = SHIELD1;
+ValeurCmp = ARDUINO_UNO_REV3_SHIELD;
+IdModule  = KCNC_GRBL_SHIELD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D908
+Path = /5940F098
+Reference = U8;
+ValeurCmp = LM7805CT;
+IdModule  = Power_Integrations:TO-220;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D702
+Path = /5940F223
+Reference = C1;
+ValeurCmp = 1µF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D708
+Path = /5940F4DC
+Reference = C2;
+ValeurCmp = 470µF;
+IdModule  = Capacitors_ThroughHole:CP_Radial_D8.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D70E
+Path = /5940494F
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D714
+Path = /59405225
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D71A
+Path = /5940F307
+Reference = C5;
+ValeurCmp = 1µF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D720
+Path = /5940542D
+Reference = C6;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D72C
+Path = /594054AB
+Reference = C8;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D732
+Path = /5940F3B4
+Reference = C9;
+ValeurCmp = 1µF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D738
+Path = /5940550E
+Reference = C10;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D73E
+Path = /5940F466
+Reference = C11;
+ValeurCmp = 1µF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D744
+Path = /59405576
+Reference = C12;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D74A
+Path = /594055DF
+Reference = C13;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D756
+Path = /59409199
+Reference = J1;
+ValeurCmp = limZ;
+IdModule  = Screw_Terminal:screw_terminal_3.5mm_pitch_2p;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D762
+Path = /59409DF2
+Reference = J2;
+ValeurCmp = limY;
+IdModule  = Screw_Terminal:screw_terminal_3.5mm_pitch_2p;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D76E
+Path = /59409E70
+Reference = J3;
+ValeurCmp = limX;
+IdModule  = Screw_Terminal:screw_terminal_3.5mm_pitch_2p;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D77A
+Path = /59409EEF
+Reference = J4;
+ValeurCmp = abort;
+IdModule  = Screw_Terminal:screw_terminal_3.5mm_pitch_2p;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D786
+Path = /5940A00D
+Reference = J5;
+ValeurCmp = hold;
+IdModule  = Screw_Terminal:screw_terminal_3.5mm_pitch_2p;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D792
+Path = /5940A092
+Reference = J6;
+ValeurCmp = resume;
+IdModule  = Screw_Terminal:screw_terminal_3.5mm_pitch_2p;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D79E
+Path = /5940A63C
+Reference = J7;
+ValeurCmp = probe;
+IdModule  = Screw_Terminal:screw_terminal_3.5mm_pitch_2p;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D7AA
+Path = /5940FE23
+Reference = J8;
+ValeurCmp = +12V;
+IdModule  = Screw_Terminal:screw_terminal_3.5mm_pitch_2p;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D7B6
+Path = /59442960
+Reference = J9;
+ValeurCmp = +24V;
+IdModule  = Screw_Terminal:screw_terminal_3.5mm_pitch_2p;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D7C2
+Path = /5943A054
+Reference = J10;
+ValeurCmp = COOLANT;
+IdModule  = Screw_Terminal:screw_terminal_3.5mm_pitch_2p;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D7D0
+Path = /5943AC42
+Reference = J11;
+ValeurCmp = SPINDLE;
+IdModule  = Screw_Terminal:screw_terminal_3.5mm_pitch_3p;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D7DE
+Path = /5943EFCC
+Reference = J12;
+ValeurCmp = Z_CTRL;
+IdModule  = Screw_Terminal:screw_terminal_3.5mm_pitch_3p;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D7EA
+Path = /5943F09E
+Reference = J13;
+ValeurCmp = Z_ALIM;
+IdModule  = Screw_Terminal:screw_terminal_3.5mm_pitch_2p;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D7F8
+Path = /594411CC
+Reference = J14;
+ValeurCmp = Y_CTRL;
+IdModule  = Screw_Terminal:screw_terminal_3.5mm_pitch_3p;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D804
+Path = /594411D2
+Reference = J15;
+ValeurCmp = Y_ALIM;
+IdModule  = Screw_Terminal:screw_terminal_3.5mm_pitch_2p;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D812
+Path = /5944A119
+Reference = J16;
+ValeurCmp = X_CTRL;
+IdModule  = Screw_Terminal:screw_terminal_3.5mm_pitch_3p;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D81E
+Path = /5944A11F
+Reference = J17;
+ValeurCmp = X_ALIM;
+IdModule  = Screw_Terminal:screw_terminal_3.5mm_pitch_2p;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D82A
+Path = /5942FD93
+Reference = J18;
+ValeurCmp = LED;
+IdModule  = Screw_Terminal:screw_terminal_3.5mm_pitch_2p;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D830
+Path = /5944B06E
+Reference = P5;
+ValeurCmp = RESET;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D838
+Path = /5944B137
+Reference = P6;
+ValeurCmp = RS232;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D83E
+Path = /590AFDC9
+Reference = R1;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D844
+Path = /590B00D1
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D84A
+Path = /590B0160
+Reference = R3;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D850
+Path = /590B01A8
+Reference = R4;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D856
+Path = /590B03BB
+Reference = R5;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D85C
+Path = /590B0409
+Reference = R6;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D862
+Path = /590B0458
+Reference = R7;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D868
+Path = /590B1F72
+Reference = R8;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D86E
+Path = /590B22F7
+Reference = R9;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D874
+Path = /590B234D
+Reference = R10;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D87A
+Path = /590B23A0
+Reference = R11;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D880
+Path = /590B23F8
+Reference = R12;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D886
+Path = /590B2449
+Reference = R13;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D88C
+Path = /590B249D
+Reference = R14;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D892
+Path = /5944DCDF
+Reference = R15;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D8D1
+Path = /59424401
+Reference = U1;
+ValeurCmp = TLP185;
+IdModule  = Opto-Devices:Toshiba_SOP_Pins1346_4.4x3.6mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D8D9
+Path = /594244ED
+Reference = U2;
+ValeurCmp = TLP185;
+IdModule  = Opto-Devices:Toshiba_SOP_Pins1346_4.4x3.6mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D8E1
+Path = /594245B9
+Reference = U3;
+ValeurCmp = TLP185;
+IdModule  = Opto-Devices:Toshiba_SOP_Pins1346_4.4x3.6mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D8E9
+Path = /59424692
+Reference = U4;
+ValeurCmp = TLP185;
+IdModule  = Opto-Devices:Toshiba_SOP_Pins1346_4.4x3.6mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D8F1
+Path = /59424766
+Reference = U5;
+ValeurCmp = TLP185;
+IdModule  = Opto-Devices:Toshiba_SOP_Pins1346_4.4x3.6mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D8F9
+Path = /59424841
+Reference = U6;
+ValeurCmp = TLP185;
+IdModule  = Opto-Devices:Toshiba_SOP_Pins1346_4.4x3.6mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D901
+Path = /59424917
+Reference = U7;
+ValeurCmp = TLP185;
+IdModule  = Opto-Devices:Toshiba_SOP_Pins1346_4.4x3.6mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D920
+Path = /59401426
+Reference = U9;
+ValeurCmp = 74HCT245P;
+IdModule  = SMD_Packages:SSOP-20;
+EndCmp
+
+BeginCmp
+TimeStamp = 5946D932
+Path = /59414263
+Reference = U10;
+ValeurCmp = 74HC125AN;
+IdModule  = SMD_Packages:SOIC-14_N;
+EndCmp
+
+EndListe
